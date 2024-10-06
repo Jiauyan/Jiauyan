@@ -2,16 +2,6 @@
 
 I’m a **final-year Software Engineering student at Universiti Malaya (UM)** with a wealth of knowledge through various relevant school courses and projects. 
 
-## Projects 🔭
-- **Fitness Planner and Recommendation System**  
-  A web application designed to provide and recommend fitness training programs for university students.
-
-- **Department of Statistics Malaysia (DOSM) Project**  
-  A frontend development project aimed at creating digital solutions for monitoring national economic performance.
-
-- **Travel Blog**  
-  A web application that allows travelers to document and share their travel experiences.
-  
 ## Technical Skills 🛠
 
 ### 📚 Languages
